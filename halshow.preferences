@@ -1,0 +1,47 @@
+# Halshow settings
+# This file is generated automatically.
+wm geometry . 1538x926+372+57
+placeFrames 0.376453488372093
+set ::ratio 0.376453488372093
+set ::old_w_leftf 160
+set ::watchlist {
+    pin+hm2_7i76e.0.7i76.0.0.input-00
+    pin+hm2_7i76e.0.7i76.0.0.input-01
+    pin+hm2_7i76e.0.7i76.0.0.input-02
+    pin+hm2_7i76e.0.7i76.0.0.input-03
+    pin+hm2_7i76e.0.7i76.0.0.input-04
+    pin+hm2_7i76e.0.7i76.0.0.input-05
+    pin+hm2_7i76e.0.7i76.0.0.input-06
+    pin+hm2_7i76e.0.7i76.0.0.input-07
+    pin+hm2_7i76e.0.7i76.0.0.input-08
+    pin+hm2_7i76e.0.7i76.0.0.input-09
+    pin+hm2_7i76e.0.7i76.0.0.input-10
+    pin+hm2_7i76e.0.7i76.0.0.input-11
+    pin+hm2_7i76e.0.7i76.0.0.input-12
+    pin+hm2_7i76e.0.7i76.0.0.input-13
+    pin+hm2_7i76e.0.7i76.0.0.input-14
+    pin+hm2_7i76e.0.7i76.0.0.input-15
+    pin+hm2_7i76e.0.gpio.040.out
+    pin+hm2_7i76e.0.gpio.039.out
+    pin+hm2_7i76e.0.gpio.038.out
+    pin+hm2_7i76e.0.gpio.037.out
+    pin+halui.estop.activate
+    pin+halui.estop.is-activated
+    pin+halui.estop.reset
+    sig+estop-out
+    pin+hm2_7i76e.0.7i76.0.0.output-00
+    pin+hm2_7i76e.0.7i76.0.0.output-15
+    pin+hm2_7i76e.0.7i76.0.0.output-14
+    pin+hm2_7i76e.0.7i76.0.0.output-13
+    pin+hm2_7i76e.0.7i76.0.0.output-12
+    pin+hm2_7i76e.0.7i76.0.0.output-11
+    pin+hm2_7i76e.0.7i76.0.0.output-10
+    pin+hm2_7i76e.0.7i76.0.0.output-09
+}
+set ::workmode watchhal
+set ::watchInterval 100
+set ::col1_width 100
+set ::ffmts 
+set ::ifmts 
+set ::alwaysOnTop 0
+set ::autoSaveWatchlist 1
