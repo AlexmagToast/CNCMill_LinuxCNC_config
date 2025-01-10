@@ -362,7 +362,7 @@ net coolant-flood     <=  iocontrol.0.coolant-flood
 
 #  ---Sonde/Taster Signal (probe signal)---
 
-
+net probe-in     hm2_7i76e.0.gpio.042.in
 net probe-in     =>  motion.probe-input
 
 #  ---Signale zur Bewegungs-Steuerung---
